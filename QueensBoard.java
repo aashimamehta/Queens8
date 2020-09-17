@@ -1,6 +1,4 @@
 /*
-   This class generates a Board for working through the EightQueens 
-   problem. https://en.wikipedia.org/wiki/Eight_queens_puzzle
    @author Crystal Hess 10/29/2019
    Edited by: Aashima Mehta (02/02/2020)
 */
