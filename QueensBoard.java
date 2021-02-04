@@ -1,6 +1,5 @@
 /*
-   @author Crystal Hess 10/29/2019
-   Edited by: Aashima Mehta (02/02/2020)
+   Wriiten by: Aashima Mehta (02/02/2020)
 */
 
 public class QueensBoard {
